@@ -7,8 +7,11 @@
 ## Contents
 
 - [Tutorials](#tutorials)
-- [Plugins](#plugins)
 - [Resources](#resources)
+- [Plugins](#plugins)
+	- [Reactions](#Reactions)
+	- [Recipes](#recipes)
+
 
 ## Plugins
 
